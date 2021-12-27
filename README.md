@@ -1,4 +1,4 @@
-<h1>Android Chat Clone</h1>
+<h1>Windows Chat Clone</h1>
 Allows users to send text messages to each other.
 
 <h2> Externally used library </h2>
